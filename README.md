@@ -1,2 +1,2 @@
 # Section-Attention-for-Accurate-3D-Medical-Image-Segmentation
-code implementation
+Our code is being sorted out and will be released as soon as possible
